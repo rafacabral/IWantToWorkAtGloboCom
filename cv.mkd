@@ -38,4 +38,18 @@ Desenvolvedor de sistemas web, Analisar a melhor maneira de se implementar um si
 
 - Técnico de Sistemas - Rede MV1 Colégio Macedo Soares - Dez 2014 - atualmente
 
+Habilidades
+==
+- SCRUM
+- Kanban
+- Analise Orientada a objetos
+- C# MVC 4
+- Django/Python
+- MongoDB
+- MSSQL Server, Mysql, Oracle
+- PHP
+- Java(Báscio)
+- HTML / CSS / JavaScript / JQuery
+- ASP.NET / VB.NET
+
 
